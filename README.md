@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 02/06/2026
+## Register Number: 212224240039
+## Name: Divya Dharshini S
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
@@ -12,15 +12,59 @@ Ministry of Railway
 
 ## Idea
 
+1.Smart Indoor Navigation
+GPS, Bluetooth Beacons, and QR-code-based navigation inside railway stations.
+
+2. AI-Powered Virtual Assistant
+Chatbot to answer passenger queries regarding facilities, platforms, train timings, and station services.
+
+3. Real-Time Facility Tracking
+Live updates on platform changes, waiting room availability, and crowd density.
+
+4. Accessibility Assistance
+Voice navigation, sign language support, and wheelchair-friendly route planning.
+
+5. Multilingual Support
+Navigation and guidance available in multiple Indian languages and English.
+
+6. Emergency Assistance
+Quick access to emergency services, medical rooms, and security help points.
+
+7. Analytics and Insights
+Dashboard for railway authorities to analyze passenger flow and optimize station operations.
 
 ## Proposed Solution / Architecture Diagram
+
+<img width="768" height="323" alt="image" src="https://github.com/user-attachments/assets/ae1746f3-aef5-4538-be24-5f681bed2031" />
 
 
 ## Use Cases
 
+<img width="925" height="266" alt="image" src="https://github.com/user-attachments/assets/a73da822-d30c-4ab3-aba6-33e3450597bb" />
+
 
 ## Technology Stack
 
+1. React.js
+2. Node.js
+3. Express.js
+4. PostgreSQL
+5. Google Maps API
+6. Firebase Authentication
+7. AI Chatbot API
+8. GitHub
+9. Postman
 
 ## Dependencies
 
+Indoor Mapping Service – 10 Days
+
+Data Collection – 10 Days
+
+UI/UX Design – 7 Days
+
+AI Assistant Integration – 7 Days
+
+Testing & Deployment – 6 Days
+
+Budget - Rs. 50,000
